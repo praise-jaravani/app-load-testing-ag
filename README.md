@@ -9,7 +9,7 @@ To run this program, you need to have the following installed on your machine:
 
 ## Installation
 Clone the GitHub repository to your local machine by running the following command:
-> git clone https://github.com/your-username/repository-name.git
+> git clone https://github.com/praise-jaravani/app-load-testing-ag.git
 
 Change into the repository directory:
 > cd app-load-testing-ag/
