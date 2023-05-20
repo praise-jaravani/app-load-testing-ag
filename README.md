@@ -22,13 +22,16 @@ Open a terminal and navigate to the repository directory.
 
 Run the bash script using the following command:
 > ./run.sh
+
 This will compile and execute the Java program, opening the HTTP endpoint testing program.
 
 ## Results
 The program will display the following information for each request made:
 
 **Response Code:** The HTTP response code returned by the endpoint.
+
 **Response Time:** The time taken by the endpoint to respond to the request, in milliseconds.
+
 **Response Bytes Sent:** The number of bytes sent in the response.
 
 ## Customization
